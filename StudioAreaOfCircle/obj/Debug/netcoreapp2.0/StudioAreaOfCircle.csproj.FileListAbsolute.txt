@@ -1,0 +1,11 @@
+C:\Users\Ed\Documents\lc101\Unit-3\StudioAreaOfCircle\StudioAreaOfCircle\bin\Debug\netcoreapp2.0\StudioAreaOfCircle.deps.json
+C:\Users\Ed\Documents\lc101\Unit-3\StudioAreaOfCircle\StudioAreaOfCircle\bin\Debug\netcoreapp2.0\StudioAreaOfCircle.runtimeconfig.json
+C:\Users\Ed\Documents\lc101\Unit-3\StudioAreaOfCircle\StudioAreaOfCircle\bin\Debug\netcoreapp2.0\StudioAreaOfCircle.runtimeconfig.dev.json
+C:\Users\Ed\Documents\lc101\Unit-3\StudioAreaOfCircle\StudioAreaOfCircle\bin\Debug\netcoreapp2.0\StudioAreaOfCircle.dll
+C:\Users\Ed\Documents\lc101\Unit-3\StudioAreaOfCircle\StudioAreaOfCircle\bin\Debug\netcoreapp2.0\StudioAreaOfCircle.pdb
+C:\Users\Ed\Documents\lc101\Unit-3\StudioAreaOfCircle\StudioAreaOfCircle\obj\Debug\netcoreapp2.0\StudioAreaOfCircle.csprojResolveAssemblyReference.cache
+C:\Users\Ed\Documents\lc101\Unit-3\StudioAreaOfCircle\StudioAreaOfCircle\obj\Debug\netcoreapp2.0\StudioAreaOfCircle.csproj.CoreCompileInputs.cache
+C:\Users\Ed\Documents\lc101\Unit-3\StudioAreaOfCircle\StudioAreaOfCircle\obj\Debug\netcoreapp2.0\StudioAreaOfCircle.AssemblyInfoInputs.cache
+C:\Users\Ed\Documents\lc101\Unit-3\StudioAreaOfCircle\StudioAreaOfCircle\obj\Debug\netcoreapp2.0\StudioAreaOfCircle.AssemblyInfo.cs
+C:\Users\Ed\Documents\lc101\Unit-3\StudioAreaOfCircle\StudioAreaOfCircle\obj\Debug\netcoreapp2.0\StudioAreaOfCircle.dll
+C:\Users\Ed\Documents\lc101\Unit-3\StudioAreaOfCircle\StudioAreaOfCircle\obj\Debug\netcoreapp2.0\StudioAreaOfCircle.pdb
