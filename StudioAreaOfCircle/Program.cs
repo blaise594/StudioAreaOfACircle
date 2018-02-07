@@ -8,29 +8,37 @@ namespace StudioAreaOfCircle
         {
 
 
-            Console.WriteLine("Please enter the radius: ");
-            try
+            int n = 1;
+            do
             {
-                double r = Double.Parse(Console.ReadLine());
-                if (r > 0)
+                Console.WriteLine("Enter the radius of a circle to continue: ");
+                try
                 {
-                    double area = 3.14 * r * r;
+                    double r = Double.Parse(Console.ReadLine());
+                    if (r > 0)
+                    {
+                        double area = 3.14 * r * r;
 
-                    Console.WriteLine("The area of the circle is: " + area);
-                    Console.ReadLine();
+                        Console.WriteLine("The area of the circle is: " + area);
+
+                    }
+                    else if (r <= 0)
+                    {
+                        Console.WriteLine("The radius must be a positive number");
+
+                    }
                 }
-                else if (r <= 0)
+                catch (Exception)
                 {
-                    Console.WriteLine("The radius must be a positive number");
-                    Console.ReadLine();
+                    Console.WriteLine("Invalid character");
+
                 }
+
             }
-            catch (Exception)
+            while (n > 0);
             {
-                Console.WriteLine("Invalid character");
-                Console.ReadLine();
-            }
 
+            }
 
         }
     }
